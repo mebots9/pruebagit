@@ -8,3 +8,5 @@ Mod 3
 
 Mod 4
 
+Add 1
+Add 2
